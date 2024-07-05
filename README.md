@@ -2,10 +2,12 @@
 
 **Welcome to my secretary :)**
 
-  (the art is not mine)
-
 - Advanced/ambitious in Python, Batch and VBS
 
 - Apprentice in Assembler and C# (Forms)
 
 - Interested in C++
+
+
+
+(the art is not mine)
