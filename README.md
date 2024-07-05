@@ -2,9 +2,7 @@
 
 **Welcome to my secretary :)**
 
-                                                         (the art is not mine)
-
-
+  (the art is not mine)
 
 - Advanced/ambitious in Python, Batch and VBS
 
