@@ -11,3 +11,5 @@
 
 
 (the art is not mine)
+
+And be careful what you download, no one will be held responsible for your actions.
