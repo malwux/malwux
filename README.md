@@ -13,3 +13,5 @@
 (the art is not mine)
 
 And be careful what you download, no one will be held responsible for your actions.
+
+**I'm not a programmer or a computer expert, just a bored guy with a PC**
