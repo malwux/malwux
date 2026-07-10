@@ -2,14 +2,15 @@
 
 **Building who I am from the ruins of who I was and my dreams of who I want to be...**
 
+Malware making: since 2022
+
 - Advanced/ambitious in Python, Batch and VBS
 
-- Apprentice in Assembler and C# (Forms)
+- Apprentice in Assembler, C++ and C# (Forms)
 
-- Interested in C++
+- Interested in Cryptography, BIOS/UEFI Firmware and classic malware
 
 - My favorite malware is the petya ransomware!
-
 
 
 (the art is not mine)
